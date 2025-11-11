@@ -80,8 +80,8 @@ const Index = () => {
   ];
 
   const stats = [
-    { value: "50K+", label: "Active Servers", labelAr: "سيرفر نشط" },
-    { value: "500K+", label: "Total Users", labelAr: "مستخدم" },
+    { value: "100+", label: "Active Servers", labelAr: "سيرفر نشط" },
+    { value: "12k+", label: "Total Users", labelAr: "مستخدم" },
     { value: "1M+", label: "Daily Prayers", labelAr: "صلاة يومية" },
     { value: "24/7", label: "Always Online", labelAr: "متاح دائماً" }
   ];
