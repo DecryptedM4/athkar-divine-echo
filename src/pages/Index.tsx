@@ -289,7 +289,7 @@ const Index = () => {
                   <div className="flex items-center gap-4 p-4 rounded-lg bg-islamic-green/5 border border-islamic-green/10">
                     <Users className="w-8 h-8 text-islamic-green" />
                     <div>
-                      <div className="font-bold text-xl">500,000+</div>
+                      <div className="font-bold text-xl">10k+</div>
                       <div className="text-sm text-muted-foreground">Active Users</div>
                     </div>
                   </div>
