@@ -373,7 +373,7 @@ const Index = () => {
               <ul className="space-y-2">
                 <li><a href="#features" className="text-muted-foreground hover:text-islamic-green transition-smooth">Features</a></li>
                 <li><a href="#about" className="text-muted-foreground hover:text-islamic-green transition-smooth">About</a></li>
-                <li><a href="https://discord.gg/your-support-server" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-islamic-green transition-smooth">Support</a></li>
+                <li><a href="https://discord.gg/jajcq9Fz" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-islamic-green transition-smooth">Support</a></li>
               </ul>
             </div>
             <div>
