@@ -91,7 +91,7 @@ const Index = () => {
   };
 
   const inviteBot = () => {
-    window.open('https://discord.com/api/oauth2/authorize?client_id=YOUR_BOT_ID&permissions=8&scope=bot', '_blank');
+    window.open('https://discord.com/api/oauth2/authorize?client_id=1399336621987467335&permissions=549756004352&scope=bot', '_blank');
   };
 
   return (
@@ -125,7 +125,7 @@ const Index = () => {
           <div className="flex flex-col lg:flex-row items-center gap-12">
             <div className="flex-1 text-center lg:text-left animate-fade-in">
               <Badge className="mb-4 bg-islamic-gold/20 text-islamic-gold border-islamic-gold/30 hover:bg-islamic-gold/30">
-                ✨ Trusted by 50,000+ Servers
+                ✨ Trusted by most of our users
               </Badge>
               <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
                 <span className="bg-gradient-to-r from-islamic-green via-islamic-green-light to-islamic-green bg-clip-text text-transparent">
@@ -386,7 +386,7 @@ const Index = () => {
             </div>
           </div>
           <div className="pt-8 border-t border-border text-center text-muted-foreground">
-            <p>© 2024 Athkar Bot. Made with ❤️ for the Muslim community</p>
+            <p>© 2026 Athkar Bot. Made with ❤️ for the Muslim community</p>
           </div>
         </div>
       </footer>
