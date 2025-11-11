@@ -111,7 +111,7 @@ const Index = () => {
           <div className="hidden md:flex items-center gap-8">
             <a href="#features" className="text-foreground hover:text-primary transition-smooth">Features</a>
             <a href="#about" className="text-foreground hover:text-primary transition-smooth">About</a>
-            <a href="https://discord.gg/your-support-server" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-smooth">Support</a>
+            <a href="https://discord.gg/jajcq9Fz" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-smooth">Support</a>
           </div>
           <Button onClick={inviteBot} className="gradient-primary hover:opacity-90 transition-smooth shadow-soft">
             Invite Bot
@@ -338,7 +338,7 @@ const Index = () => {
                 <Button 
                   size="lg" 
                   variant="outline"
-                  onClick={() => window.open('https://discord.gg/your-support-server', '_blank')}
+                  onClick={() => window.open('https://discord.gg/jajcq9Fz', '_blank')}
                   className="border-2 border-white text-white hover:bg-white hover:text-islamic-green transition-smooth text-lg px-8"
                 >
                   Join Support Server
